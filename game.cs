@@ -114,7 +114,6 @@ private bool IsWordGuessed()
     }
     return true;
 }
-}
 
 class Program
 {
@@ -123,4 +122,5 @@ class Program
         Hangman game = new Hangman("hello");
         game.Start();
     }
+}
 }
