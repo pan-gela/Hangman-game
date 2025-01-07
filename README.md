@@ -1,1 +1,1 @@
-testing out code, learning c#, following a tutorial
+Learning C# by making hangman game
