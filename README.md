@@ -1,1 +1,1 @@
-Learning C# by making hangman game
+Learning to use C# and .net by making hangman game
